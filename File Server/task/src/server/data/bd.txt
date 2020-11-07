@@ -1,0 +1,13 @@
+1544710561;C:\Java_lessons\File Server\File Server\task\src\server\data\3.jpg
+971331336;C:\Java_lessons\File Server\File Server\task\src\server\data\test_purpose_test1.txt
+1910477837;C:\Java_lessons\File Server\File Server\task\src\server\data\784852363094500
+1815460830;C:\Java_lessons\File Server\File Server\task\src\server\data\775540727572700
+537429312;C:\Java_lessons\File Server\File Server\task\src\server\data\776693835473500
+1047201740;C:\Java_lessons\File Server\File Server\task\src\server\data\775573798704200
+2027043828;C:\Java_lessons\File Server\File Server\task\src\server\data\774879512592700
+881551024;C:\Java_lessons\File Server\File Server\task\src\server\data\783043101731500
+970407815;C:\Java_lessons\File Server\File Server\task\src\server\data\test_purpose_test2.txt
+829932011;C:\Java_lessons\File Server\File Server\task\src\server\data\test_purpose_newFile.txt
+279700398;C:\Java_lessons\File Server\File Server\task\src\server\data\783665805866500
+2017964715;C:\Java_lessons\File Server\File Server\task\src\server\data\783133713610500
+1393969434;C:\Java_lessons\File Server\File Server\task\src\server\data\728959300539300
